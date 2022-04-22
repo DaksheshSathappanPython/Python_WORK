@@ -1,0 +1,18 @@
+#print('a'.isidentifier())
+#print('A'.isidentifier())
+#print('a2'.isidentifier())
+#print('_a'.isidentifier())
+#print('3a'.isidentifier())
+#print('a_3_'.isidentifier())
+#print('_a$'.isidentifier())
+#print('a b c'.isidentifier())
+
+a=5 ; b= 6 ; c=2.4 ; d=6.3 ; e='hi'
+#print(type(a))
+#print(type(b))
+#print(type(c))
+print(type(e))
+#print(a+b) 
+#print(a+c) 
+#print(c+d)
+#print(d+a)
